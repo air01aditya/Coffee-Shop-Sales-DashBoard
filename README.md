@@ -34,3 +34,6 @@ It highlights **sales trends, peak hours, location-wise performance, best-sellin
 │    └─ coffee_shop_sales.xlsx \
 ├─ docs \
 │ └─ coffee-shop-sales-analysis.pdf
+
+
+If you found this useful, ⭐ star the repo to support and help others discover it!
